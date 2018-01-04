@@ -1,0 +1,9 @@
+name: BungeeCordPlugin
+main: me.tsccoding.BungeeMain
+version: 1.0
+author: TheSourceCode
+
+commands:
+  kick:
+    usage: /<command>
+    description: to connect to other servers
